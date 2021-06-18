@@ -1,6 +1,6 @@
 **安装openpyxl模块**
 
-jupyter已经安装了opengxyl模块
+>jupyter已经安装了opengxyl模块
 
 **Excel读取**
 
